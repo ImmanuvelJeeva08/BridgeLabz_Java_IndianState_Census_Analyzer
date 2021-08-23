@@ -1,0 +1,2 @@
+StateSensorAnalyzerTest.java
+ StateSensorAnalyzerTest
